@@ -1,1 +1,3 @@
-# VmeHUD
+# FlashyHUD
+
+Minimalist volume HUD.
